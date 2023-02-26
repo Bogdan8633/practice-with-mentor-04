@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/practice-with-mentor-04/static/css/main.7acaea2f.css",
-    "main.js": "/practice-with-mentor-04/static/js/main.7a38549d.js",
+    "main.js": "/practice-with-mentor-04/static/js/main.6d5d2870.js",
     "index.html": "/practice-with-mentor-04/index.html",
     "main.7acaea2f.css.map": "/practice-with-mentor-04/static/css/main.7acaea2f.css.map",
-    "main.7a38549d.js.map": "/practice-with-mentor-04/static/js/main.7a38549d.js.map"
+    "main.6d5d2870.js.map": "/practice-with-mentor-04/static/js/main.6d5d2870.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.7a38549d.js"
+    "static/js/main.6d5d2870.js"
   ]
 }
